@@ -1,0 +1,10 @@
+Eta holo Website er Backend, etar main file holo index.js
+
+eta run korte hole, apnake 
+
+1. command line open korte hobe
+2. node index
+
+ei ta korlei server run hoye jabe, tarpor apni front-end er code ta run korlei 
+Website Cholbe.
+
